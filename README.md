@@ -1,2 +1,2 @@
-# addidas
-tenis
+# pongtwo
+Jogo pong no JavaScript
